@@ -1,0 +1,25 @@
+{
+  "name": "midi-visualizer-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io-server": "^1.0.0-b",
+    "ws": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucho613/midi-visualizer-server.git"
+  },
+  "author": "Daisuke Yamamura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mucho613/midi-visualizer-server/issues"
+  },
+  "homepage": "https://github.com/mucho613/midi-visualizer-server#readme"
+}
