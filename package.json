@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "socket.io-server": "^1.0.0-b",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {},
   "scripts": {
